@@ -4,7 +4,7 @@
 
 I'm a Python developer with a broad interest in software development, particularly in creating reusable tools and solutions, backend systems, and working with databases. I'm passionate about solving problems and building practical solutions.
 ## 👨‍💻 About Me
-- 🎓 3rd-year student in Applied Informatics and a graduate of GeekBrains' Python Developer course.
+- 🎓 3rd-year student in Applied Informatics.
 - 💼 Actively seeking a Junior Python Developer role.
 - 🛠️ Skilled in Python, Django, SQLite, Docker, and Linux, with growing expertise in PostgreSQL and web technologies.
 - 🧑‍💻 Enjoy working on web applications, personal projects, and diving into APIs and databases.
@@ -35,7 +35,6 @@ I'm a Python developer with a broad interest in software development, particular
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mityashka&layout=compact)](https://github.com/Mityashka/github-readme-stats)
 ![Dmitry's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mityashka&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)
 
-![GitHub Project](https://img.shields.io/badge/Project%20Status-In%20Progress-blue?style=flat&logo=github)
 ![Days Without Code](https://img.shields.io/badge/Days%20Without%20Code-0-red?style=flat&logo=github)
 
 ## 📩 Contact Me  
