@@ -4,9 +4,9 @@
 
 I'm a Python developer with a broad interest in software development, particularly in creating reusable tools and solutions, backend systems, and working with databases. I'm passionate about solving problems and building practical solutions.
 ## 👨‍💻 About Me
+- 💻 IT Intern at Sber — developing AI agents for business process automation.
 - 🎓 3rd-year student in Applied Informatics.
-- 💼 Actively seeking a Junior Python Developer role.
-- 🛠️ Skilled in Python, Django, SQLite, Docker, and Linux, with growing expertise in PostgreSQL and web technologies.
+- 🛠️ Skilled in Python, Django, PostgreSQL, Docker, and Linux, with growing expertise in FastApi.
 - 🧑‍💻 Enjoy working on web applications, personal projects, and diving into APIs and databases.
 - 📷 Outside of coding, I love photography, traveling, and flying my drone to capture beautiful moments.
 
