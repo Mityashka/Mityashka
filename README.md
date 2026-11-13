@@ -2,43 +2,63 @@
 [![Gmail Badge](https://img.shields.io/badge/-dima.kuzkin@yandex.ru-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:dima.kuzkin@yandex.ru)](mailto:dima.kuzkin@yandex.ru)  
 [![Telegram Badge](https://img.shields.io/badge/-mityashka_nice-26A5E4?style=flat&logo=Telegram&logoColor=white&link=https://t.me/mityashka_nice)](https://t.me/mityashka_nice)
 
-I'm a Python developer with a broad interest in software development, particularly in creating reusable tools and solutions, backend systems, and working with databases. I'm passionate about solving problems and building practical solutions.
+I'm a Python developer interested in Artificial Intelligence, backend development, and building practical software solutions. Currently, I'm focused on developing AI agents, working with LLMs. Just starting my journey in Machine Learning and exploring the fundamentals of ML
+
 ## 👨‍💻 About Me
-- 💻 IT Intern at Sber — developing AI agents for business process automation.
-- 🎓 4th-year student in Applied Informatics.
-- 🛠️ Skilled in Python, Django, PostgreSQL, Docker, and Linux, with growing expertise in FastApi.
-- 🧑‍💻 Enjoy working on web applications, personal projects, and diving into APIs and databases.
-- 📷 Outside of coding, I love photography, traveling, and flying my drone to capture beautiful moments.
+
+- 💻 AI/DS Intern at Sber - working on AI agents, LLM-based solutions, and various Data Science tasks
+- 🎓 1st-year Master's student at ITMO University — Artificial Intelligence Systems Design and Development
+- 🤖 Interested in AI agents, LLM applications, and prompt engineering
+- 🧠 Just starting my journey in Machine Learning, exploring its fundamentals and practical applications
+- 🛠️ Working with Python, Django, FastAPI, PostgreSQL, Docker, and Linux
+- 🔌 Enjoy building backend services, integrating APIs, working with databases, and developing reusable tools
+- 🏃 Outside of coding, I enjoy athletics, running, traveling, and flying my drone
 
 ## 🔧 Technologies & Tools
-- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
- ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
- ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
- ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
- ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
- ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
- ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
- ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+**Languages & Backend**
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+**AI & LLM**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
+![GigaChat](https://img.shields.io/badge/GigaChat-00A86B?style=for-the-badge)
+
+**Data Science & Machine Learning**
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+**Databases & Tools**
+
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 
 
 ## 🌱 Currently Learning
-- Deepening my knowledge of Python.
-- Learning FastAPI for building modern APIs.
-- Improving my coding practices and exploring more advanced features in web development.
+- Strengthening my Python skills and exploring advanced language features
+- Building a foundation in Machine Learning and studying core ML concepts
+- Exploring Neural network architectures
+- Expanding my knowledge of LLMs and AI agent development
+- Improving software architecture and backend development skills
 
 ## 📈 GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mityashka&layout=compact)](https://github.com/Mityashka/github-readme-stats)
-![Dmitry's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mityashka&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)
+[![GitHub Stats](https://gitshine.com/card/Mityashka)](https://gitshine.com/stats/Mityashka)
 
 ![Days Without Code](https://img.shields.io/badge/Days%20Without%20Code-0-red?style=flat&logo=github)
 
 ## 📩 Contact Me  
-I'm always open to collaboration or if you have any questions! Feel free to reach out.
+Let's make something interesting happen!
 
 - 📧 Email: [dima.kuzkin@yandex.ru](mailto:dima.kuzkin@yandex.ru)
 - 💬 Telegram: [@mityashka_nice](https://t.me/mityashka_nice)
