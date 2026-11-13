@@ -7,7 +7,7 @@ I'm a Python developer interested in Artificial Intelligence, backend developmen
 ## 👨‍💻 About Me
 
 - 💻 AI/DS Intern at Sber - working on AI agents, LLM-based solutions, and various Data Science tasks
-- 🎓 1st-year Master's student at ITMO University — Artificial Intelligence Systems Design and Development
+- 🎓 1st-year Master's student at ITMO University - Artificial Intelligence Systems Design and Development
 - 🤖 Interested in AI agents, LLM applications, and prompt engineering
 - 🧠 Just starting my journey in Machine Learning, exploring its fundamentals and practical applications
 - 🛠️ Working with Python, Django, FastAPI, PostgreSQL, Docker, and Linux
